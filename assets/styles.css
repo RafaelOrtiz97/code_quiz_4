@@ -1,0 +1,63 @@
+
+
+
+h1 {
+    font-size: 42px;
+    text-align: center;
+    margin: 0px 30px 30px 30px;
+}
+
+p {
+    font-size: 32px;
+    padding: 0px 200px;
+}
+
+button {
+    background-color: darkblue;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: blue;
+    cursor: pointer;
+}
+
+.screen {
+    padding: 40px;
+    height: 90vh;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    font-size: 24px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    height: 100%;
+}
+
+#hs {
+    color: blue;
+    padding: 20px;
+    background: none;
+    border: none;
+}
+
+#timer {
+    font-size: 24px;
+    padding: 20px;
+}
+
+#start {
+    margin: 20px;
+    font-size: 24px;
+    text-align: center;
+}
+
